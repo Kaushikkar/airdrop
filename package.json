@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kaushikkar/airdrop/issues"
   },
-  "homepage": "https://github.com/Kaushikkar/airdrop#readme"
+  "homepage": "https://github.com/Kaushikkar/airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
 }
